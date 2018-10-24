@@ -1,7 +1,7 @@
 # dockerfiles-centos-ssh
 > Build your image with latest CentOS with SSH installed and running inside container.
-> This Dockerfile is automatically build on Docker Hub
-> https://hub.docker.com/r/bitroniq/docker-centos-ssh/
+
+> This Dockerfile is automatically build on Docker Hub: https://hub.docker.com/r/bitroniq/docker-centos-ssh/
 
 # Building & Running
 
